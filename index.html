@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Wine Maker</title>
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta content="" name="description">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+
+    <!-- css -->
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="src/css/font-awesome.css" rel="stylesheet">
+    <link href="src/css/animate.css" rel="stylesheet">
+    <link href="src/css/swipebox.css" rel="stylesheet">
+    <link href="src/css/swiper.min.css" rel="stylesheet">
+    <link href="src/css/winemaker-theme.css" rel="stylesheet">
+
+    <!-- google fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet" type="text/css">
+    <!-- <link href="http://fonts.googleapis.com/css?family=Merriweather:300,400,700,900,900italic,700italic,400italic,300italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css"> -->
+    <script src="src/js/modernizr-2.6.2.min.js"></script>
+</head>
+<body>
+    <div class="container-fluid" id="main-container">
+        <div class="row" id="main-row">
+
+            <header>
+                <nav id="main-nav-bar" class="navbar navbar-default">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <a class="navbar-brand hidden-xs hidden-sm" href="index.html">
+                                <img alt="Logo Viña de los campos" src="images/logohome.png">
+                                <!-- srcset="images/logo-1x.png 1x, images/logo-2x.png 2x" -->
+                            </a>
+                            <a class="navbar-brand hidden-lg hidden-md" href="index-2.html">
+                                <img alt="chateau" src="images/logohome.png">
+                            </a>
+                            <button class="navbar-toggle collapsed" data-target="#navigation" data-toggle="collapse" type="button">
+                                <span class="fa fa-navicon"></span>
+                            </button>
+                        </div>
+                        <!-- navbar-header -->
+
+                        <div class="collapse navbar-collapse navbar-right" id="navigation">
+                            <ul id="main-nav" class="nav navbar-nav">
+                                <li class="dropdown">
+                                    <a href="index.html">Nosotros</a>
+                                </li>
+                                <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Productos <span class="fa fa-angle-down"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="products.html#filter=*">Todos los Productos</a></li>
+                                        <li><a href="products.html#filter=.red-wines">Vinos</a></li>
+                                        <li><a href="products.html#filter=.white-wines">Piscos</a></li>
+                                        <li><a href="products.html#filter=.rose-wines">Manzanillos</a></li>
+                                        <li><a href="products.html#filter=.food-specialties">Sourvenirs</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="contact.html">Contacto</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+			</header>
+
+            <div class="container-fluid">
+                <div class="row">
+
+                    <div id="swiper-1" class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide" id="slide-0">
+                                <div class="background"></div>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-offset-4 col-sm-4">
+                                            <h3 class="color-light text-center">
+                                                <span data-animation="animated bounceInDown">El más puro vino preparado</span>
+                                                <br>
+                                                <span data-animation="animated fadeInLeftBig">
+                                                    con  uvas 100% peruanas y cultivadas en el valle Bendito de Cañete.
+                                                </span>
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" id="slide-1">
+                                <div class="background"></div>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <h3 class="color-light">
+                                                <span data-animation="animated fadeInUpBig" class="">Viña D' Los Campos</span>
+                                                <br>
+                                                <span data-animation="animated bounceInUp" class="">
+                                                    se compromete en brindarle la mejor experiencia para que pueda disfrutar en los momentos más esperados
+                                                </span>
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" id="slide-2">
+                                <div class="background"></div>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-offset-8 col-sm-4">
+                                            <h3 class="color-light text-right">
+                                                <span data-animation="animated bounceInDown">Uvas selectas</span>
+                                                <br>
+                                                <span data-animation="animated bounceInUp">y de aroma perfecto.</span>
+                                                <br>
+                                                <span data-animation="animated bounceInRight">
+                                                    Las mejores uvas para los mejores vinos
+                                                </span>
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+
+                        <div class="swiper-button-prev"></div>
+                        <div class="swiper-button-next"></div>
+                    </div>
+                </div>
+            </div>
+
+            <section>
+                <div class="container">
+
+                    <div class="flag">
+                        <span class="fa fa-heart-o"></span>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <img alt="chateau" class="img-responsive img-thumbnail mar-v os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0s" src="images/wine-maker-working.jpg">
+                        </div>
+
+                        <div class="col-sm-7">
+                            <h2>Tradición y Elegancia<br>en vinos y Piscos de Cañete</h2>
+                            <span class="separator"></span>
+                            <p>Somos una empresa joven, que se abre en el mercado nacional e internacional en la producción de vinos y piscos peruanos con denominación de origen, empresa que sigue la línea  fina y auténtica de nuestros padres, fundadores de esta Bodega.
+                            </p>
+                            <p>Nuestras gran variedad de vinos, piscos y manzanillos hacen que el paladar pueda encontrar el gusto exigente y el aroma perfecto con el grado de alcohol exacto para todo tipo de evento y momento especial.</p>
+                            <p>Nuestros clientes que cada día son más, son la muestra de nuestra seriedad, calidad y garantía de nuestros exquisitos productos.</p>
+                            <img alt="chateau" height="103" src="images/signature.png" width="202">
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-photo parallax color-light" data-stellar-background-ratio="0.5" id="img1">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <h2>
+                                <em>Our Manor</em>
+                            </h2>
+
+                            <h3>
+                                In the heart of napa valley
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="overlay">
+                </div>
+            </section>
+
+            <section>
+                <div class="container">
+                    <div class="flag">
+                        <span class="fa fa-leaf"></span>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <h2>
+                                Genuine and Natural Products
+                            </h2>
+                            <span class="separator"></span>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-6 os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0s">
+                            <a href="products.html#filter=.red-wines">
+                            <figure class="box-1 img-thumbnail mar-v">
+                                <figcaption>
+                                    Red Wines
+                                </figcaption>
+                                <div class="overlay"></div>
+                                <img alt="chateau" class="img-appear" src="images/red-wine-1.png">
+                                <img alt="chateau" class="img-responsive" src="images/red-wines.jpg">
+                            </figure></a>
+                        </div>
+
+                        <div class="col-sm-6 os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0s">
+                            <a href="products.html#filter=.rose-wines">
+                            <figure class="box-1 img-thumbnail mar-v">
+                                <figcaption>
+                                    Rosé Wines
+                                </figcaption>
+                                <div class="overlay"></div>
+                                <img alt="chateau" class="img-appear" src="images/rose-wine-1.png">
+                                <img alt="chateau" class="img-responsive" src="images/rose-wines.jpg">
+                            </figure></a>
+                        </div>
+
+                        <div class="col-sm-6 os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0s">
+                            <a href="products.html#filter=.white-wines">
+                            <figure class="box-1 img-thumbnail mar-v">
+                                <figcaption>
+                                    White Wines
+                                </figcaption>
+                                <div class="overlay"></div>
+                                <img alt="chateau" class="img-appear" src="images/white-wine-1.png">
+                                <img alt="chateau" class="img-responsive" src="images/white-wines.jpg">
+                            </figure>
+                            </a>
+                        </div>
+
+                        <div class="col-sm-6 os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0s">
+                            <a href="products.html#filter=.food-specialties">
+                            <figure class="box-1 img-thumbnail mar-v">
+                                <figcaption>
+                                    Food Specialties
+                                </figcaption>
+                                <div class="overlay"></div>
+                                <img alt="chateau" class="img-appear" src="images/food-5.png">
+                                <img alt="chateau" class="img-responsive" src="images/food-specialities.jpg">
+                            </figure></a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-photo parallax color-light" data-stellar-background-ratio="0.5" id="img2">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <h2>
+                                <em>Award Winning Italian Vines</em>
+                            </h2>
+                            <h3>To only make the best wines</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="overlay">
+                </div>
+            </section>
+            <footer>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-4 col-sm-offset-4 pad-v text-center">
+                            <img alt="Logo Viña de los campos" src="images/logohome.png" class="img-responsive" width="190px">
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <footer class="credits">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            Creado por <a href="http://www.blue360.com.pe">Blue360</a>
+                        </div>
+                        <div class="col-sm-6 text-right social">
+                            <a href="#"><span class="fa fa-facebook-square"></span></a>
+                            <a href="#"><span class="fa fa-twitter-square"></span></a>
+                            <a href="#"><span class="fa fa-google-plus-square"></span></a>
+                            <a href="#"><span class="fa fa-pinterest-square"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+
+        </div>
+    </div>
+
+    <script type="text/javascript" src="src/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="src/js/jquery.swipebox.min.js"></script>
+    <script type="text/javascript" src="src/js/jquery.stellar.js"></script>
+    <script type="text/javascript" src="src/js/swiper.jquery.min.js"></script>
+    <script type="text/javascript" src="src/js/jquery.waypoints.min.js"></script>
+    <script type="text/javascript" src="src/js/winemaker-theme.js"></script>
+    <script type="text/javascript">
+        /* ENABLE PARALAX ON NON TOUCH DEVICES */
+        if (!Modernizr.touch) {
+            $.stellar({
+                horizontalScrolling: false,
+                responsive: true,
+                verticalOffset: 100
+            });
+        }
+    </script>
+</body>
+
+<!-- Mirrored from www.directdesign.it/demos/chateau/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Nov 2015 03:24:04 GMT -->
+</html>
