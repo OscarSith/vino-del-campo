@@ -11,13 +11,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                Creado por <a href="http://www.blue360.com.pe">Blue360</a> | &copy; <?php echo date('Y') ?>
-            </div>
-            <div class="col-sm-6 text-right social">
-                <a href="#"><span class="fa fa-facebook-square"></span></a>
-                <a href="#"><span class="fa fa-twitter-square"></span></a>
-                <a href="#"><span class="fa fa-google-plus-square"></span></a>
-                <a href="#"><span class="fa fa-pinterest-square"></span></a>
+                Vinos del campo - <?php echo date('Y') ?> &nbsp; | &nbsp; &copy; Derechos Reservados
             </div>
         </div>
     </div>
