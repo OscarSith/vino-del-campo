@@ -4,8 +4,8 @@
 		            <div class="row">
 		            	<div class="col-sm-12">
 							<ol class="breadcrumb">
-							  <li><a href="index.html">Inicio</a></li>
-							  <li class="active"><a href="#">Productos</a></li>
+							  <li><a href="index.php">Inicio</a></li>
+							  <li class="active">Productos</li>
 							</ol>
 						  <h1>PRODUCTOS PREMIUM</h1>
 		            	</div>
