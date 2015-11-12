@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-4 col-sm-offset-4 pad-v text-center">
-                <a href="index.php"><img alt="Logo Viña de los campos" src="images/logo-vina-wood.jpg" class="img-responsive"></a>
+                <a href="index.php"><img alt="Logo Viña de los campos" src="images/logohome.png" class="img-responsive"></a>
             </div>
         </div>
     </div>

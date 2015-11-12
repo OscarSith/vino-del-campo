@@ -1,4 +1,6 @@
-<?php include 'tpl/header.tpl.html' ?>
+<?php
+$imagen = 'logohome.png';
+include 'tpl/header.tpl.html' ?>
 			<div class="page-header" style="background-image:url(images/title-5.jpg)" data-stellar-background-ratio="0.2">
 		        <div class="container">
 		            <div class="row">

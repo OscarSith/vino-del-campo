@@ -16,7 +16,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-5">
-                            <img alt="Wine maker working" class="img-responsive img-thumbnail mar-v os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0s" src="images/wine-maker-working.jpg">
+                            <img alt="Wine maker working" class="img-responsive img-thumbnail mar-v os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0s" src="images/logo-vina-wood.jpg">
                         </div>
                         <div class="col-sm-7">
                             <h2>Tradición y Elegancia<br>en vinos y Piscos de Cañete</h2>
