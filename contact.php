@@ -8,7 +8,7 @@
 							  <li><a href="index.php">Inicio</a></li>
 							  <li class="active">Contacto</li>
 							</ol>
-						  <h1>Contactenos</h1>
+						  <h1>Contáctenos</h1>
 		            	</div>
 					</div>
 	            </div>
@@ -25,6 +25,7 @@
                                         </button>
                                         <p><?php echo $_SESSION['MESSAGE'] ?></p>
                                     </div>
+                                    <?php unset($_SESSION['MESSAGE']) ?>
                                 <?php endif ?>
                                 <div class="form-group">
                                     <label for="nombreApellido">Nombre y Apellido</label>
@@ -50,14 +51,14 @@
 							</form>
 	                    </div>
                         <div class="col-sm-5">
-                        	<h2>Visitanos</h2>
+                        	<h2>Visítenos</h2>
                         	<h3>Lima / La Victoria</h3>
                         	<p>
                         	     <span class="fa fa-map-marker primary bigger"></span> Jr: Abtao N° 1279 - alt. Cdra 8, Av. México
                                  <br>
                                  <i class="fa fa-phone"></i> 761-6376 &nbsp; <i class="fa fa-mobile fa-fw"></i> <span class="hidden-xs"> RPM: </span>#995510517 / <span class="hidden-xs"> RPM: </span>*855644 / <span class="hidden-xs"> RPC: </span>989024356
                         	</p>
-                        	<h3>Lima / Cañete</h3>
+                        	<h3>Lima / Cañete (Central)</h3>
                         	<p>
                         	     <span class="fa fa-map-marker primary bigger"></span> Fundo Santa Adela s/n Nuevo Imperial. (Frente a Senasa)<br>
                                  <i class="fa fa-phone"></i> 2847270 &nbsp; <i class="fa fa-mobile fa-fw"></i> 999926764  /  998114918

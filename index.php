@@ -8,11 +8,11 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-sm-4">
-                                            <h3 class="color-light text-center">
-                                                <span data-animation="animated bounceInDown">El más puro vino preparado</span>
-                                                <br>
+                                            <h3 class="color-light">
+                                                <span data-animation="animated bounceInDown">Nuestra imagen cambió.</span>
+                                                <br><br>
                                                 <span data-animation="animated bounceInLeft">
-                                                    con  uvas 100% peruanas y cultivadas en el valle Bendito de Cañete.
+                                                    Nuestra escencia sigue siendo la misma
                                                 </span>
                                             </h3>
                                         </div>
@@ -23,8 +23,24 @@
                                 <div class="background"></div>
                                 <div class="container">
                                     <div class="row">
-                                        <div class="col-sm-offset-8 col-sm-4">
+                                        <div class="col-sm-4">
                                             <h3 class="color-light">
+                                                <span data-animation="animated bounceInDown">El más puro vino preparado</span>
+                                                <br>
+                                                <span data-animation="animated bounceInLeft">
+                                                    con  uvas 100% peruanas y cultivadas en el valle Bendito de Cañete.
+                                                </span>
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" id="slide-2">
+                                <div class="background"></div>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-offset-8 col-sm-4">
+                                            <h3 class="color-light text-right">
                                                 <span data-animation="animated fadeInUpBig" class="">Viña D' Los Campos</span>
                                                 <br>
                                                 <span data-animation="animated bounceInRight" class="">
@@ -35,7 +51,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide" id="slide-2">
+                            <div class="swiper-slide" id="slide-3">
                                 <div class="background"></div>
                                 <div class="container">
                                     <div class="row">
