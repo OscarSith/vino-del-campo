@@ -2,7 +2,7 @@
 <?php
 $imagen = 'logohome.png';
 include 'tpl/header.tpl.html' ?>
-			<div class="page-header" style="background-image:url(images/title-6.jpg)" data-stellar-background-ratio="0.2">
+			<div class="page-header" style="background-image:url(images/title-6.jpg);height: 400px" data-stellar-background-ratio="0.2">
 		        <div class="container">
 		            <div class="row">
 		            	<div class="col-sm-12">
