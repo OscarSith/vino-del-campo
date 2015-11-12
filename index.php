@@ -25,7 +25,7 @@
                                     <div class="row">
                                         <div class="col-sm-4">
                                             <h3 class="color-light">
-                                                <span data-animation="animated bounceInDown">El más puro vino preparado</span>
+                                                <span data-animation="animated bounceInDown">El vino más puro preparado</span>
                                                 <br>
                                                 <span data-animation="animated bounceInLeft">
                                                     con  uvas 100% peruanas y cultivadas en el valle Bendito de Cañete.

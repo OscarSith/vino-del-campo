@@ -34,7 +34,7 @@
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             <h2>
-                                <em>Dedicados a lo mejor producción</em>
+                                <em>Dedicados a la mejor producción</em>
                             </h2>
                             <h3>Para brindar los mejores vinos</h3>
                         </div>
