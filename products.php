@@ -47,10 +47,12 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<img src="images/products/souvenirs/chef.png" alt="Chef" width="300" height="600">
-										<div>
-											<h3>Portavino de cerámica chef</h3>
-										</div>
+										<a href="images/products/souvenirs/chef.png" class="swipebox">
+											<img src="images/products/souvenirs/chef.png" alt="Chef" width="300" height="600">
+											<div>
+												<h3>Portavino de cerámica chef</h3>
+											</div>
+										</a>
 									</div>
 									<div class="isotope-grid-item rose-wines">
 										<a href="product-sheet.php?id=20">
@@ -85,12 +87,12 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<!-- <a href="product-sheet.php?id=13"> -->
+										<a href="images/products/souvenirs/borracho.png" class="swipebox">
 											<img src="images/products/souvenirs/borracho.png" alt="Borracho" width="300" height="600">
 											<div>
 												<h3>Portavino de cerámica campesino</h3>
 											</div>
-										<!-- </a> -->
+										</a>
 									</div>
 									<div class="isotope-grid-item red-wines">
 										<a href="product-sheet.php?id=1">
@@ -125,12 +127,12 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<!-- <a href="product-sheet.php?id="> -->
+										<a href="images/products/souvenirs/estuche.png" class="swipebox">
 											<img src="images/products/souvenirs/estuche.png" alt="estuche" width="300" height="600">
 											<div>
 												<h3>Maleta de cuero</h3>
 											</div>
-										<!-- </a> -->
+										</a>
 									</div>
 									<div class="isotope-grid-item red-wines">
 										<a href="product-sheet.php?id=3">
@@ -165,10 +167,12 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<img src="images/products/souvenirs/latas.png" alt="Latas" width="300" height="600">
-										<div>
-											<h3>Lata metálica viña d' los campos</h3>
-										</div>
+										<a href="images/products/souvenirs/latas.png" class="swipebox">
+											<img src="images/products/souvenirs/latas.png" alt="Latas" width="300" height="600">
+											<div>
+												<h3>Lata metálica viña d' los campos</h3>
+											</div>
+										</a>
 									</div>
 									<div class="isotope-grid-item red-wines">
 										<a href="product-sheet.php?id=6">
@@ -195,7 +199,7 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<!-- <a href="product-sheet.php?id="> -->
+										<a href="images/products/souvenirs/carretilla.png" class="swipebox">
 											<img src="images/products/souvenirs/carretilla.png" alt="carretilla" width="300" height="600">
 											<div>
 												<h3>Carruaje de cuero y madera</h3>
@@ -219,12 +223,12 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<!-- <a href="product-sheet.php?id="> -->
+										<a href="images/products/souvenirs/cigarro.png" class="swipebox">
 											<img src="images/products/souvenirs/cigarro.png" alt="cigarro" width="300" height="600">
 											<div>
 												<h3>Portavino de cerámica rastaman</h3>
 											</div>
-										<!-- </a> -->
+										</a>
 									</div>
 									<div class="isotope-grid-item red-wines">
 										<a href="product-sheet.php?id=9">
@@ -251,12 +255,12 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<!-- <a href="product-sheet.php?id="> -->
+										<a href="images/products/souvenirs/copa.png" class="swipebox">
 											<img src="images/products/souvenirs/copa.png" alt="copa" width="300" height="600">
 											<div>
 												<h3>Copa viña d' los campos</h3>
 											</div>
-										<!-- </a> -->
+										</a>
 									</div>
 									<div class="isotope-grid-item red-wines">
 										<a href="product-sheet.php?id=12">
@@ -267,12 +271,12 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<!-- <a href="product-sheet.php?id="> -->
+										<a href="images/products/souvenirs/barril.png" class="swipebox">
 											<img src="images/products/souvenirs/barril.png" alt="barril" width="300" height="600">
 											<div>
 												<h3>Tonel o barrica de vino</h3>
 											</div>
-										<!-- </a> -->
+										</a>
 									</div>
 								</div>
 	                        </div>
@@ -292,10 +296,11 @@ include 'tpl/header.tpl.html' ?>
     <script type="text/javascript" src="src/js/sticky.js"></script>
     <script type="text/javascript" src="src/js/isotope.pkgd.min.js"></script>
     <script type="text/javascript" src="src/js/winemaker-theme.js"></script>
-    <script>
-
+    <script type="text/javascript" src="src/js/jquery.swipebox.min.js"></script>
+    <script type="text/javascript">
 	$(document).ready(function() {
 
+		$( '.swipebox' ).swipebox();
 	/* ISOTOPE */
 
 		function getHashFilter() {

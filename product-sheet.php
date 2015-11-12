@@ -31,7 +31,7 @@ include 'tpl/header.tpl.html';
                             <h5><?php echo $product['subtitle'] ?></h5>
                             <div class="col-sm-9">
                                 <div class="row">
-                                    <?php echo $product['descripcion'] ?><a href="images/products/<?php echo $product['grupo'] . '/' . $product['imagen'] ?>"><br><i class="fa fa-picture"></i> Foto</a>
+                                    <?php echo $product['descripcion'] ?><a href="images/products/<?php echo $product['grupo'] . '/' . $product['imagen'] ?>"><br><i class="fa fa-picture"></i> Ver Imagen</a>
                                 </div>
                             </div>
                         </div>
