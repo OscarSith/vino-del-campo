@@ -204,7 +204,7 @@ include 'tpl/header.tpl.html' ?>
 											<div>
 												<h3>Carruaje de cuero y madera</h3>
 											</div>
-										<!-- </a> -->
+										</a>
 									</div>
 									<div class="isotope-grid-item white-wines">
 										<a href="product-sheet.php?id=19">
