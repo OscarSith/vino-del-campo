@@ -47,8 +47,8 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<a href="images/products/souvenirs/chef.png" class="swipebox">
-											<img src="images/products/souvenirs/chef.png" alt="Chef" width="300" height="600">
+										<a href="images/products/souvenirs/grandes/chef.png" class="swipebox">
+											<img src="images/products/souvenirs/chef.png" alt="Chef">
 											<div>
 												<h3>Portavino de cerámica chef</h3>
 											</div>
@@ -87,8 +87,8 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<a href="images/products/souvenirs/borracho.png" class="swipebox">
-											<img src="images/products/souvenirs/borracho.png" alt="Borracho" width="300" height="600">
+										<a href="images/products/souvenirs/grandes/borracho.png" class="swipebox">
+											<img src="images/products/souvenirs/borracho.png" alt="Borracho">
 											<div>
 												<h3>Portavino de cerámica campesino</h3>
 											</div>
@@ -127,8 +127,8 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<a href="images/products/souvenirs/estuche.png" class="swipebox">
-											<img src="images/products/souvenirs/estuche.png" alt="estuche" width="300" height="600">
+										<a href="images/products/souvenirs/grandes/estuche.png" class="swipebox">
+											<img src="images/products/souvenirs/estuche.png" alt="estuche">
 											<div>
 												<h3>Maleta de cuero</h3>
 											</div>
@@ -167,8 +167,8 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<a href="images/products/souvenirs/latas.png" class="swipebox">
-											<img src="images/products/souvenirs/latas.png" alt="Latas" width="300" height="600">
+										<a href="images/products/souvenirs/grandes/latas.png" class="swipebox">
+											<img src="images/products/souvenirs/latas.png" alt="Latas">
 											<div>
 												<h3>Lata metálica viña d' los campos</h3>
 											</div>
@@ -199,8 +199,8 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<a href="images/products/souvenirs/carretilla.png" class="swipebox">
-											<img src="images/products/souvenirs/carretilla.png" alt="carretilla" width="300" height="600">
+										<a href="images/products/souvenirs/grandes/carretilla.png" class="swipebox">
+											<img src="images/products/souvenirs/carretilla.png" alt="carretilla">
 											<div>
 												<h3>Carruaje de cuero y madera</h3>
 											</div>
@@ -223,8 +223,8 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<a href="images/products/souvenirs/cigarro.png" class="swipebox">
-											<img src="images/products/souvenirs/cigarro.png" alt="cigarro" width="300" height="600">
+										<a href="images/products/souvenirs/grandes/cigarro.png" class="swipebox">
+											<img src="images/products/souvenirs/cigarro.png" alt="cigarro">
 											<div>
 												<h3>Portavino de cerámica rastaman</h3>
 											</div>
@@ -255,8 +255,8 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<a href="images/products/souvenirs/copa.png" class="swipebox">
-											<img src="images/products/souvenirs/copa.png" alt="copa" width="300" height="600">
+										<a href="images/products/souvenirs/grandes/copa.png" class="swipebox">
+											<img src="images/products/souvenirs/copa.png" alt="copa">
 											<div>
 												<h3>Copa viña d' los campos</h3>
 											</div>
@@ -271,8 +271,8 @@ include 'tpl/header.tpl.html' ?>
 										</a>
 									</div>
 									<div class="isotope-grid-item food-specialties">
-										<a href="images/products/souvenirs/barril.png" class="swipebox">
-											<img src="images/products/souvenirs/barril.png" alt="barril" width="300" height="600">
+										<a href="images/products/souvenirs/grandes/barril.png" class="swipebox">
+											<img src="images/products/souvenirs/barril.png" alt="barril">
 											<div>
 												<h3>Tonel o barrica de vino</h3>
 											</div>
