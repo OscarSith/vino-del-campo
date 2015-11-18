@@ -82,7 +82,7 @@ include 'tpl/header.tpl.html' ?>
 										<a href="product-sheet.php?id=22">
 											<img src="images/products/manzanillos/manzanillo_borgonia_blanca.png" alt="manzanillo_borgonia_blanca" width="300" height="600">
 											<div>
-												<h3>Manzanillo Borgonia Blanca</h3>
+												<h3>Manzanillo Borgoña Blanca</h3>
 											</div>
 										</a>
 									</div>
@@ -114,7 +114,7 @@ include 'tpl/header.tpl.html' ?>
 										<a href="product-sheet.php?id=2">
 											<img src="images/products/vinos/borgonia_blanca_semi_seco.png" alt="borgonia_blanca_semi_seco" width="300" height="600">
 											<div>
-												<h3>Borgonia Blanca Semi seco</h3>
+												<h3>Borgoña Blanca Semi seco</h3>
 											</div>
 										</a>
 									</div>
@@ -138,7 +138,7 @@ include 'tpl/header.tpl.html' ?>
 										<a href="product-sheet.php?id=3">
 											<img src="images/products/vinos/borgonia_negra_semi_seco.png" alt="borgonia_negra_semi_seco" width="300" height="600">
 											<div>
-												<h3>Borgonia Negra Semi Seco</h3>
+												<h3>Borgoña Negra Semi Seco</h3>
 											</div>
 										</a>
 									</div>
