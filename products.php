@@ -190,6 +190,14 @@ include 'tpl/header.tpl.html' ?>
 											</div>
 										</a>
 									</div>
+									<div class="isotope-grid-item food-specialties">
+										<a href="images/products/souvenirs/grandes/carruaje_portavino__caballo_tallado_a_mano.png" class="swipebox">
+											<img src="images/products/souvenirs/carruaje_portavino__caballo_tallado_a_mano.png" alt="Latas">
+											<div>
+												<h3>Lata metálica viña d' los campos</h3>
+											</div>
+										</a>
+									</div>
 									<div class="isotope-grid-item white-wines">
 										<a href="product-sheet.php?id=18">
 											<img src="images/products/piscos/pisco_italia.png" alt="pisco_italia" width="300" height="600">
