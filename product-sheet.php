@@ -26,11 +26,11 @@ include 'tpl/header.tpl.html';
                                 <li><a href="products.php">Productos</a></li>
                                 <li class="active"><?php echo $product['grupo'] ?></li>
                             </ol>
-                            <h1><?php echo $product['nombre'] ?></h1>
-                            <h5><?php echo $product['subtitle'] ?></h5>
+                            <h1><?php echo utf8_encode($product['nombre']) ?></h1>
+                            <h5><?php echo utf8_encode($product['subtitle']) ?></h5>
                             <div class="col-sm-9">
                                 <div class="row">
-                                    <?php echo $product['descripcion'] ?><a href="images/products/<?php echo $product['grupo'] . '/' . $product['imagen'] ?>"><br><i class="fa fa-picture"></i> Ver Imagen</a>
+                                    <?php echo utf8_encode($product['descripcion']) ?><a href="images/products/<?php echo $product['grupo'] . '/' . $product['imagen'] ?>"><br><i class="fa fa-picture"></i> Ver Imagen</a>
                                 </div>
                             </div>
                         </div>

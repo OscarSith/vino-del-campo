@@ -77,21 +77,8 @@
                     </div>
                 </div>
             </div>
-<!--             <section class="section-photo parallax color-light" data-stellar-background-ratio="0.5" id="img1">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12 text-center">
-                            <h2>
-                                <em>Our Manor</em>
-                            </h2>
-                            <h3>In the heart of napa valley</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="overlay"></div>
-            </section> -->
-
             <section>
+                <img src="images/bebidas-alcoho.jpg" alt="Tomar bebidas alcoholicas en exeso es dañino" style="position: absolute;top: 0" class="img-responsive" id="imgAlcoholias">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12 text-center">

@@ -16,15 +16,16 @@ include 'tpl/header.tpl.html' ?>
 	        </div>
 
 			<nav id="secondary-nav-bar" class="navbar navbar-default">
-			  <div class="container">
-			    <ul id="secondary-nav" class="nav navbar-nav isotope-filters">
-                    <li class="active"><a data-filter="*">Todos los Productos</a></li>
-                    <li><a data-filter=".red-wines">Vinos</a></li>
-                    <li><a data-filter=".white-wines">Piscos</a></li>
-                    <li><a data-filter=".rose-wines">Manzanillos</a></li>
-                    <li><a data-filter=".food-specialties">Sourvenirs</a></li>
-			    </ul>
-			  </div>
+				<img src="images/bebidas-alcoho.jpg" alt="Tomar bebidas alcoholicas en exeso es dañino" style="position: absolute;top: 0" class="img-responsive" id="imgAlcoholias">
+				<div class="container">
+					<ul id="secondary-nav" class="nav navbar-nav isotope-filters">
+						<li class="active"><a data-filter="*">Todos los Productos</a></li>
+						<li><a data-filter=".red-wines">Vinos</a></li>
+						<li><a data-filter=".white-wines">Piscos</a></li>
+						<li><a data-filter=".rose-wines">Manzanillos</a></li>
+						<li><a data-filter=".food-specialties">Sourvenirs</a></li>
+					</ul>
+				</div>
 			</nav>
 
             <div class="container-fluid">
