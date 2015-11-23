@@ -192,9 +192,9 @@ include 'tpl/header.tpl.html' ?>
 									</div>
 									<div class="isotope-grid-item food-specialties">
 										<a href="images/products/souvenirs/grandes/carruaje_portavino__caballo_tallado_a_mano.png" class="swipebox">
-											<img src="images/products/souvenirs/carruaje_portavino__caballo_tallado_a_mano.png" alt="Latas">
+											<img src="images/products/souvenirs/carruaje_portavino__caballo_tallado_a_mano.png" alt="carruaje_portavino__caballo_tallado_a_mano">
 											<div>
-												<h3>Lata metálica viña d' los campos</h3>
+												<h3>Carruaje portavino caballo tallado a mano</h3>
 											</div>
 										</a>
 									</div>
@@ -272,9 +272,9 @@ include 'tpl/header.tpl.html' ?>
 									</div>
 									<div class="isotope-grid-item food-specialties">
 										<a href="images/products/souvenirs/grandes/portavino_carruaje_con_caballo_de_madera.png" class="swipebox">
-											<img src="images/products/souvenirs/portavino_carruaje_con_caballo_de_madera.png" alt="copa">
+											<img src="images/products/souvenirs/portavino_carruaje_con_caballo_de_madera.png" alt="portavino_carruaje_con_caballo_de_madera">
 											<div>
-												<h3>Copa viña d' los campos</h3>
+												<h3>Portavino carruaje con caballo de madera</h3>
 											</div>
 										</a>
 									</div>
@@ -290,7 +290,7 @@ include 'tpl/header.tpl.html' ?>
 										<a href="images/products/souvenirs/grandes/coche_antiguo_de_madera.png" class="swipebox">
 											<img src="images/products/souvenirs/coche_antiguo_de_madera.png" alt="coche_antiguo_de_madera">
 											<div>
-												<h3>Tonel o barrica de vino</h3>
+												<h3>Coche antiguo de madera</h3>
 											</div>
 										</a>
 									</div>
