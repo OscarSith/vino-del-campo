@@ -10,7 +10,6 @@ if (!$id) {
 $cn = new Productos();
 
 $product = $cn->consultar('SELECT nombre, descripcion, imagen, grupo, subtitle FROM productos WHERE id = ?', [$id], true);
-// print_r($product);
 include 'tpl/header.tpl.html';
 ?>
             <div class="container">
@@ -38,14 +37,14 @@ include 'tpl/header.tpl.html';
                     </section>
                 </div>
             </div>
-        <?php include 'tpl/footer.tpl.php' ?>
+            <?php include 'tpl/footer.tpl.php' ?>
         </div>
     </div>
     <script type="text/javascript" src="src/js/jquery-1.11.3.min.js"></script>
     <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="src/js/jquery.swipebox.min.js"></script>
     <script type="text/javascript">
-    ;( function( $ ) {
+    ( function( $ ) {
         $( '.swipebox' ).swipebox();
     } )( jQuery );
     </script>

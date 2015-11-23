@@ -23,7 +23,7 @@
                             <span class="separator"></span>
                             <p>Somos una empresa joven, que se abre en el mercado nacional e internacional en la producción de vinos y piscos peruanos con denominación de origen, empresa que sigue la línea  fina y auténtica de nuestros padres, fundadores de esta Bodega.
                             </p>
-                            <p>Nuestras gran variedad de vinos, piscos y manzanillos hacen que el paladar pueda encontrar el gusto exigente y el aroma perfecto con el grado de alcohol exacto para todo tipo de evento y momento especial.</p>
+                            <p>Nuestra gran variedad de vinos, piscos y manzanillos hacen que el paladar pueda encontrar el gusto exigente y el aroma perfecto con el grado de alcohol exacto para todo tipo de evento y momento especial.</p>
                             <p>Nuestros clientes que cada día son más, son la muestra de nuestra seriedad, calidad y garantía de nuestros exquisitos productos.</p>
                         </div>
                     </div>

@@ -9,10 +9,10 @@
                                     <div class="row">
                                         <div class="col-sm-4">
                                             <h3 class="color-light">
-                                                <span data-animation="animated bounceInDown">Nuestra imagen cambió.</span>
+                                                <span data-animation="animated bounceInDown">Nuestra imagen cambio.</span>
                                                 <br><br>
                                                 <span data-animation="animated bounceInLeft">
-                                                    Nuestra escencia sigue siendo la misma
+                                                    Nuestra esencia sigue siendo la misma
                                                 </span>
                                             </h3>
                                         </div>
