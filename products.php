@@ -270,11 +270,27 @@ include 'tpl/header.tpl.html' ?>
 											</div>
 										</a>
 									</div>
+									<div class="isotope-grid-item food-specialties">
+										<a href="images/products/souvenirs/grandes/portavino_carruaje_con_caballo_de_madera.png" class="swipebox">
+											<img src="images/products/souvenirs/portavino_carruaje_con_caballo_de_madera.png" alt="copa">
+											<div>
+												<h3>Copa viña d' los campos</h3>
+											</div>
+										</a>
+									</div>
 									<div class="isotope-grid-item red-wines">
 										<a href="product-sheet.php?id=12">
 											<img src="images/products/vinos/vino_liturgico.png" alt="vino_liturgico" width="300" height="600">
 											<div>
 												<h3>Vino Liturgico</h3>
+											</div>
+										</a>
+									</div>
+									<div class="isotope-grid-item food-specialties">
+										<a href="images/products/souvenirs/grandes/coche_antiguo_de_madera.png" class="swipebox">
+											<img src="images/products/souvenirs/coche_antiguo_de_madera.png" alt="coche_antiguo_de_madera">
+											<div>
+												<h3>Tonel o barrica de vino</h3>
 											</div>
 										</a>
 									</div>
